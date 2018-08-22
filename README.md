@@ -10,8 +10,17 @@
 
 ## Day 2 : Aug 22, 2018
 
+**Today's Progress** : Learnt Pandas DataFrames basics and solved my first problem from scratch, implementing a DNN.
+
+**Thoughts** : Datalab and Notebooks are cool. The problem with the repository conection is somehow addressed with ungit, which is a really nice interface to git. Using tensorflow is a bomb!
+
+**Link of Work:**  [Commit](https://github.com/mxlian/100DaysOfML/commit/af4e7157a741e5633b52a4d044afec8b646b5739)
+
+
+## Day 3 : Aug 23, 2018
+
 **Today's Progress** : 
 
 **Thoughts** :
 
-**Link of Work:**  
+**Link of Work:**
