@@ -43,6 +43,19 @@ the parameters that you're using and that you can use to be a powerful coder.
 
 ## Day 4 : Aug 24, 2018
 
+**Today's Progress** :  Using TF Estimators for distributed work and TensorBoard
+for analysis. Learnt a bit of Keras and Torch.
+
+**Thoughts** : Using the Graphs in TF is not that intuitive as i originally
+thought and is hard to debug, at least for now.
+
+**Link of Work:** Im' stuck trying to apply some transformation in the input
+function to transfor a list of float32 scalars to a rounded version with 0.1
+precission.
+
+
+## Day 5 : Aug 25, 2018
+
 **Today's Progress** : 
 
 **Thoughts** :
