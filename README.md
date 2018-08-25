@@ -56,6 +56,16 @@ precission.
 
 ## Day 5 : Aug 25, 2018
 
+**Today's Progress** : Learned about Tensors in detail and debugging. I'm trying to debug the input function from day 3 to map the round function to transformate the input data.
+
+**Thoughts** : I'm making slow progress on this because i need to grasp more the details. Debugging the execution graph is not that easy if you don't understand how it works.
+
+**Link of Work:**: Experiments in an empty notebook [Commit](https://github.com/mxlian/100DaysOfML/commit/9d9c4e9c1745475f361082b1329a5daae0325b7f)
+
+
+
+## Day 6 : Aug 26, 2018
+
 **Today's Progress** : 
 
 **Thoughts** :
