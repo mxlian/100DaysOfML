@@ -63,8 +63,17 @@ precission.
 **Link of Work:**: Experiments in an empty notebook [Commit](https://github.com/mxlian/100DaysOfML/commit/9d9c4e9c1745475f361082b1329a5daae0325b7f)
 
 
+## Day 6 : Sept 2, 2018
 
-## Day 6 : Aug 26, 2018
+**Today's Progress** : I completed week Nr2 of TF course from Google on coursera. I got an Estimator, with data loading and monitoring with TensorBoard. The model isn't performing well. Will improve it in the next week
+
+**Thoughts** : I was confronted with probably what is the real deal in ML. Having a model, wich is not performing well and having no idea why. Data is good and clean (it seems)
+
+**Link of Work:**: [Coursera](https://www.coursera.org/learn/intro-tensorflow/home/week/2)
+
+
+
+## Day 7 : Sept 3, 2018
 
 **Today's Progress** : 
 
