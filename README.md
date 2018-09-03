@@ -75,6 +75,16 @@ precission.
 
 ## Day 7 : Sept 3, 2018
 
+**Today's Progress** : Compleeted week 3 of TF course. Learned how to use CMLE to pre test a model, updload data to buckets, submit the training job, monitor progress and publish the trained model.
+
+**Thoughts** : CMLE is incredible powerful. It puts the power of ML and expensive hardware in the hands of everyone.
+
+**Link of Work:** [notebook](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/e_cloudmle.ipynb)
+
+
+
+## Day 8 : Sept 3, 2018
+
 **Today's Progress** : 
 
 **Thoughts** :
