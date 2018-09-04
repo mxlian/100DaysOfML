@@ -72,7 +72,6 @@ precission.
 **Link of Work:**: [Coursera](https://www.coursera.org/learn/intro-tensorflow/home/week/2)
 
 
-
 ## Day 7 : Sept 3, 2018
 
 **Today's Progress** : Compleeted week 3 of TF course. Learned how to use CMLE to pre test a model, updload data to buckets, submit the training job, monitor progress and publish the trained model.
@@ -82,8 +81,20 @@ precission.
 **Link of Work:** [notebook](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/e_cloudmle.ipynb)
 
 
+## Day 8 : Sept 4, 2018
 
-## Day 8 : Sept 3, 2018
+**Today's Progress** : 4th part of the TF course. Today I was learning about
+feature engeniering. This is a serious and hard part of ML. It takes sometime
+about 70-80% of the project time.
+
+**Thoughts** : Doing some exercises this is one of those things that look easy
+but they really aren't. The insight knowledge of the domain is very strong
+correlated with the quality of this task.
+
+**Link of Work:** [coursera](https://www.coursera.org/learn/feature-engineering/lecture/paE4Y/introduction-to-feature-engineering)
+
+
+## Day 9 : Sept 5, 2018
 
 **Today's Progress** : 
 
