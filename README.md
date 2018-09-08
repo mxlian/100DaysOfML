@@ -94,10 +94,15 @@ correlated with the quality of this task.
 **Link of Work:** [coursera](https://www.coursera.org/learn/feature-engineering/lecture/paE4Y/introduction-to-feature-engineering)
 
 
-## Day 9 : Sept 5, 2018
+## Day 9 : Sept 8, 2018
 
-**Today's Progress** : 
+**Today's Progress** : Feature enginieering and exercise. One shot encoding.
+Important is that if data is somtimes not available, the availability or not
+should be encoded as a feature too. As a difference with statistics in ML
+outliers aren't ignored but learned
 
-**Thoughts** :
+**Thoughts** : Interesting how many things got taken care already, there is also
+almost no need to make variables normalization any more.
 
-**Link of Work:**
+**Link of Work:**: [Commit](https://github.com/mxlian/100DaysOfML/commit/8f82ad0c508dbbd83e666f1345cd1b8cd31ec18b)
+
