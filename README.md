@@ -106,3 +106,12 @@ almost no need to make variables normalization any more.
 
 **Link of Work:**: [Commit](https://github.com/mxlian/100DaysOfML/commit/8f82ad0c508dbbd83e666f1345cd1b8cd31ec18b)
 
+
+## Day 10: Sept 14, 2018
+
+**Today's Progress**: Using apache beam locally and pushing the job to dataflow in Google Computing Plattform GCP
+
+**Thoughts**: Awesome abstraction and impresive syntax in python (overloading of the pipe symbol). I don't think this is the most important now to learn, as I would like to have models working where i cant solve and needed to use this feature first. That way it it would allow me to get into the details faster, however it seems that there arent many tricky details
+
+**Link of Work:**: [Sources](https://github.com/GoogleCloudPlatform/training-data-analyst/courses/data_analysis/lab2/python)
+
