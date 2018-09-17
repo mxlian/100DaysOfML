@@ -115,3 +115,13 @@ almost no need to make variables normalization any more.
 
 **Link of Work:**: [Sources](https://github.com/GoogleCloudPlatform/training-data-analyst/courses/data_analysis/lab2/python)
 
+
+## Day 11: Sept 17, 2018
+
+**Today's Progress**: Apache Beam and MapReduce
+
+**Thoughts**: 
+
+**Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/gradedLti/K7cCS/mapreduce-in-dataflow)
+
+
