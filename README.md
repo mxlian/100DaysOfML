@@ -125,3 +125,12 @@ almost no need to make variables normalization any more.
 **Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/gradedLti/K7cCS/mapreduce-in-dataflow)
 
 
+## Day 12: Sept 21, 2018
+
+**Today's Progress**: Took the test regarding Apache Beam and MapReduce
+
+**Thoughts**: 
+
+**Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/gradedLti/K7cCS/mapreduce-in-dataflow)
+
+
