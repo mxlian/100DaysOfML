@@ -133,6 +133,7 @@ almost no need to make variables normalization any more.
 
 **Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/gradedLti/K7cCS/mapreduce-in-dataflow)
 
+
 ## Day 13: Sept 23, 2018
 
 **Today's Progress**: Learning about dataprep, Trifecta product integrated in GCP
