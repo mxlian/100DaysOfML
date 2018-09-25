@@ -133,4 +133,22 @@ almost no need to make variables normalization any more.
 
 **Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/gradedLti/K7cCS/mapreduce-in-dataflow)
 
+## Day 13: Sept 23, 2018
+
+**Today's Progress**: Learning about dataprep, Trifecta product integrated in GCP
+
+**Thoughts**: Extremely boring subject, have trouble concentrating
+
+**Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/lecture/DKOZG/preprocessing-with-cloud-dataprep)
+
+
+## Day 14: Sept 25, 2018
+
+**Today's Progress**: Did a Lab + Builtin tutorial of dataprep
+
+**Thoughts**: Fucking awesome tool, i'm blown. Sooo easy to use and intuitive I think old Datasciencist are thinking that nowdays everything is so easy for newcommers. I also find great that all computing gets automatically outsourced to GCP. The only downside is the slow spin ups time, which makes the workflow of a DS quite intermitent.
+
+**Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/gradedLti/bx2Ie/computing-time-windowed-features-in-cloud-dataprep)
+
+
 
