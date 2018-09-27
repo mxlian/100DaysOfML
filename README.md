@@ -152,4 +152,13 @@ almost no need to make variables normalization any more.
 **Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/gradedLti/bx2Ie/computing-time-windowed-features-in-cloud-dataprep)
 
 
+## Day 15: Sept 27, 2018
+
+**Today's Progress**: Learning feature crossing
+
+**Thoughts**: This allows to use non-linear features with linear models. Adventages from linear models are simplicity and convexity (one local minima easy to find). Using binning with feature crossing is a common practice but generates sparse data input (only one bin activates the rest are just zeros). Handling of sparsing data is then important. Tensor flow helps with that
+
+**Link of Work:**: [coursera](https://www.coursera.org/learn/feature-engineering/lecture/V9OqG/implementing-feature-crosses)
+
+
 
